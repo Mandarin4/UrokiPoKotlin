@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462562753814",
+    "firebase_url": "https://onlainuroki-ba1ac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "onlainuroki-ba1ac",
+    "storage_bucket": "onlainuroki-ba1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462562753814:android:daaa47e134aa72b7a2e437",
+        "android_client_info": {
+          "package_name": "com.example.uroki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2-VUxyo3ozr69kRZazjPR-FbbgLBKTyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

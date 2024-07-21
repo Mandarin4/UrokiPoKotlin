@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Uroki</string>
+    <string name="top_text_main">Онлайн уроки!</string>
+
+    <string name="text_button_1">Урок 1 - Легкий поток</string>
+    <string name="text_button_2">Урок 2 - Лист Вью</string>
+    <string name="text_button_3">Урок 3 - Справочник рыбака</string>
+    <string name="text_button_4">Урок 4 - Компас</string>
+    <string name="text_button_5">Урок 5 - AlertDialog</string>
+    <string name="text_button_6">Урок 6 - Примитивные данные</string>
+    <string name="text_button_7">Урок 7 - SQL(Блокнот)</string>
+    <string name="text_button_8">Урок 8 - FireBase</string>
+    <string name="text_button_9">Урок 9 - Парсинг API*</string>
+    <string name="text_button_10">Урок 10 - Фрагменты*</string>
+    <string name="text_button_11">Урок 11 - Шахматы</string>
+    <string name="text_button_12">Урок 12 - Немного теории</string>
+
+    <string name="urok1_textVeiw_1">Легкий поток</string>
+    <string name="urok2_textVeiw_1">Лист Вью</string>
+    <string name="urok3_textVeiw_1">Справочник рыбака</string>
+    <string name="urok4_textVeiw_1">Компас</string>
+    <string name="urok5_textVeiw_1">Всплывающее уведомление</string>
+    <string name="urok6_textVeiw_1">Примитивные данные</string>
+    <string name="urok7_textVeiw_1">SQL</string>
+    <string name="urok8_textVeiw_1">FireBase</string>
+    <string name="urok9_textVeiw_1">Парсинг API*</string>
+    <string name="urok10_textVeiw_1">Фрагменты*</string>
+    <string name="urok11_textVeiw_1">Шахматы</string>
+    <string name="urok12_textVeiw_1">Теория</string>
+
+    <string name="text_resurse_menu_1">Рыбы</string>
+    <string name="text_resurse_menu_2">Наживки</string>
+    <string name="text_resurse_menu_3">Снасти</string>
+    <string name="text_resurse_menu_4">Истории</string>
+    <string name="text_resurse_menu_5">Катергории 1</string>
+    <string name="text_resurse_menu_6">Катергории 2</string>
+
+    <string name="text_button_">Урок </string>
+</resources>
