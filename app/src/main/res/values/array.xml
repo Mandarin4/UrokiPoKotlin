@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fish">
+        <item>Сом</item>
+        <item>Налим</item>
+        <item>Щука</item>
+        <item>Карась</item>
+    </string-array>
+    <string-array name="fish_content">
+        <item>asdfawfd</item>
+        <item>DCADASVSVD</item>
+        <item>23FDASVASDVAS</item>
+        <item>312FEFV1DVDFVAFA ADFAVAFLHA HAFJAVH SFAKLUSNL</item>
+    </string-array>
+    <array name="fish_image_array">
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+    </array>
+
+    <string-array name="na">
+        <item>najivka1</item>
+        <item>najivka2</item>
+        <item>najivka3</item>
+        <item>najivka4</item>
+    </string-array>
+    <string-array name="na_content">
+        <item>asdfawfd</item>
+        <item>DCADASVSVD</item>
+        <item>23FDASVASDVAS</item>
+        <item>312FEFV1DVDFVAFA ADFAVAFLHA HAFJAVH SFAKLUSNL</item>
+    </string-array>
+    <array name="na_image_array">
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+    </array>
+
+    <string-array name="sna">
+        <item>snasti1</item>
+        <item>snasti2</item>
+        <item>snasti3</item>
+        <item>snasti4</item>
+    </string-array>
+    <string-array name="sna_content">
+        <item>asdfawfd</item>
+        <item>DCADASVSVD</item>
+        <item>23FDASVASDVAS</item>
+        <item>312FEFV1DVDFVAFA ADFAVAFLHA HAFJAVH SFAKLUSNL</item>
+    </string-array>
+    <array name="sna_image_array">
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+    </array>
+
+    <string-array name="istr">
+        <item>istoriya1</item>
+        <item>istoriya2</item>
+        <item>istoriya3</item>
+        <item>istoriya4</item>
+    </string-array>
+    <string-array name="istr_content">
+        <item>asdfawfd</item>
+        <item>DCADASVSVD</item>
+        <item>23FDASVASDVAS</item>
+        <item>312FEFV1DVDFVAFA ADFAVAFLHA HAFJAVH SFAKLUSNL</item>
+    </string-array>
+    <array name="istr_image_array">
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+        <item>@drawable/ic_item_urok_3</item>
+    </array>
+
+
+
+    <string-array name="multi_item_alert">
+        <item>собаки</item>
+        <item>кошки</item>
+        <item>милфы</item>
+        <item>еда</item>
+    </string-array>
+
+</resources>
